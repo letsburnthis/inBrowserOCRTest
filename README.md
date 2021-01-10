@@ -1,0 +1,1 @@
+Basic site to test in browser OCR. Built using Tesseractjs and svelte.
